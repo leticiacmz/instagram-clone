@@ -9,7 +9,7 @@ Clone of responsive Instagram login page modified by me using Flexbox, HTML and 
 
 
 <img src=".\img\Screenshots\desktop-screenshot" alt="print-desktop" style="zoom:150%;" />
-=======
+
 
 
 
@@ -18,4 +18,3 @@ Clone of responsive Instagram login page modified by me using Flexbox, HTML and 
 
 
 <img src=".\img\Screenshots\mobile-screenshot" alt="print-device" style="zoom:150%;" />
-=======
