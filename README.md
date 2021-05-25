@@ -2,7 +2,7 @@
 
 Clone of responsive Instagram login page modified by me using Flexbox, HTML and CSS, I named it InstaCat. Hope you like it :heart: 
 
-
+https://leticiacmz.github.io/instagram-clone/
 
 ### **Screenshot in Desktop :computer:**
 
